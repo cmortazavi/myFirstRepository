@@ -3,3 +3,4 @@ new line in file1.txt
 Test
 Test2
 Test3
+Test55
